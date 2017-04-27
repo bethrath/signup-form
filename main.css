@@ -1,5 +1,5 @@
 body {
-	font-family: Arial;
+	font-family: "AvenirNext-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #666666;
 }
 
@@ -16,7 +16,7 @@ img {
 
 
 .signup {
-	margin: 0 0 0 230px;
+	margin: 0 0 300px 230px;
 	border: 1px solid #f5f5f5;
 	border-radius: 2px;
  	box-shadow: 1px 1px 1px 1px #c5c5c5;
@@ -79,4 +79,8 @@ small {
 
 #smallprint {
 	font-size: 10pt;
+}
+
+.footer {
+	height 300px;
 }
